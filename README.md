@@ -30,7 +30,7 @@ Sugere-se desenvolver uma plataforma dedicada à divulgação de eventos e ativi
 
 Repositório do projeto : 
 - 
-Figma ( prototipação): ( obs: upar link aqui)  
+Figma (prototipação): ( obs: upar link aqui)  
 
 Requisitos funcionais:
 
