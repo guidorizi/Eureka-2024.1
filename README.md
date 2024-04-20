@@ -1,10 +1,11 @@
-# Eureka-2024.1
 
 # Projeto de Desenvolvimento Ágil-2024.1
 
-Titulo do projeto: Qual é a boa UTF?
+# Eureka-2024.1
 
-# 1. Requisitos Funcionais
+𝓣𝓲𝓽𝓾𝓵𝓸 𝓭𝓸 𝓹𝓻𝓸𝓳𝓮𝓽𝓸: 𝓠𝓾𝓪𝓵 é 𝓪 𝓫𝓸𝓪 𝓤𝓣𝓕?
+
+# 1. Integrantes
 
 
 | ID   |                                 Equipe                                    |   RA       | 
