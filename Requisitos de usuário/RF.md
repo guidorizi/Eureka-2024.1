@@ -4,12 +4,15 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| RF01 |O usuário deve acessar à plataforma através de um sistema de login e senha |  Alta      |    RF02     |
+| RF02 |    O usuário deve poder cadastrar eventos e atividades.                   |  Alta      |    RF01     |
+| RF03 |O usuários podem optar por receber notificações sobre eventos relevantes.  |  Baixa     |     -       |
+| RF04 |  O usuário pode pesquisar eventos  com base em diferentes critérios.      |  Baixa     |             |
+| RF05 |   Os administradores da plataforma são responsáveis por aprovar           |   Alta     |             |
+            ou rejeitar os anúncios com base em critérios estabelecidos.       
+| RF06 |    Os administradores têm a capacidade de gerenciar usuários              |   Média    |     RF05    |
+            e suas permissões na plataforma.
+| RF07 |    Os administradores têm a capacidade de gerenciar usuários              |   Média    |     RF05    |
 
 
 <div style="text-align: center">
