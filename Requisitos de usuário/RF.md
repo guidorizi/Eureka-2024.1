@@ -8,9 +8,8 @@
 | RF02 |    O usuário deve poder cadastrar eventos e atividades.                   |  Alta      |    RF01     |
 | RF03 |O usuários podem optar por receber notificações sobre eventos relevantes.  |  Baixa     |     -       |
 | RF04 |  O usuário pode pesquisar eventos  com base em diferentes critérios.      |  Baixa     |             |
-| RF05 |   Os administradores da plataforma são responsáveis por aprovar ou rejeitar os anúncios com base em critérios estabelecidos.           |   Alta     |             |
-            ou rejeitar os anúncios com base em critérios estabelecidos.       
-| RF06  Os administradores têm a capacidade de gerenciar usuários e suas permissões na plataforma             |   Média    |     RF05   
+| RF05 | Os administradores da plataforma são responsáveis por aprovar os anúncios |   Alta     |             |              
+| RF06  Os administradores têm a capacidade de gerenciar o uso dos usuários.       |   Média    |     RF05   
 | RF07 |    Os administradores têm a capacidade de gerenciar usuários              |   Média    |     RF05    |
 
 
