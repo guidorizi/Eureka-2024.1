@@ -10,8 +10,7 @@
 | RF04 |  O usuário pode pesquisar eventos  com base em diferentes critérios.      |  Baixa     |             |
 | RF05 |   Os administradores da plataforma são responsáveis por aprovar           |   Alta     |             |
             ou rejeitar os anúncios com base em critérios estabelecidos.       
-| RF06 |    Os administradores têm a capacidade de gerenciar usuários              |   Média    |     RF05    |
-            e suas permissões na plataforma.
+| RF06  Os administradores têm a capacidade de gerenciar usuários e suas permissões na plataforma             |   Média    |     RF05   
 | RF07 |    Os administradores têm a capacidade de gerenciar usuários              |   Média    |     RF05    |
 
 
