@@ -37,7 +37,6 @@ Diagrama de classes: (UPAR LINK AQUI)
 Diagrama de atividades: (UPAR LINK AQUI)
 
 Requisitos funcionais: https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RF.md
-
-                         https://github.com/guidorizi/Eureka-2024.1/tree/main/Requisitos%20de%20usu%C3%A1ri
-Requisitos não funcionais: 
+                 
+Requisitos não funcionais: https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md
 
