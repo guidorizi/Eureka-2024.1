@@ -38,5 +38,5 @@ Diagrama de atividades: (UPAR LINK AQUI)
 
 Requisitos funcionais:  [RF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RF.md)
                  
-Requisitos não funcionais: https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md
+Requisitos não funcionais: [RNF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md)
 
