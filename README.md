@@ -20,7 +20,8 @@ Titulo do projeto: 𝓠𝓾𝓪𝓵 é 𝓪 𝓫𝓸𝓪 𝓤𝓣𝓕?
 |   08 |              Samuel Ambrozio Marco                                        |   2232502  |
 
 
-Link do GitHub: https://github.com/guidorizi/Eureka-2024.1
+Link do GitHub:[CLIQUE AQUI]( https://github.com/guidorizi/Eureka-2024.1)
+
 
 
 DESCRIÇÃO DO PROJETO: 
