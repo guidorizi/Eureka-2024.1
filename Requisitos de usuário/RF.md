@@ -4,14 +4,14 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |O usuário deve acessar à plataforma através de um sistema de login e senha |  Alta      |    RF02     |
-| RF02 |    O usuário deve poder cadastrar eventos e atividades.                   |  Alta      |    RF01     |
-| RF03 |O usuários podem optar por receber notificações sobre eventos relevantes.  |  Baixa     |     -       |
-| RF04 |  O usuário pode pesquisar eventos  com base em diferentes critérios.      |  Baixa     |             |
+| RF01 |O usuário deve acessar à plataforma através de um sistema de login e senha. |  Alta      |    RF02     |
+| RF02 |O usuário deve poder cadastrar eventos e atividades.                       |  Alta      |    RF01     |
+| RF03 |O usuários podem optar por receber notificações sobre eventos relevantes.  |  Baixa     |             |
+| RF04 |O usuário pode pesquisar eventos  com base em diferentes critérios.        |  Baixa     |             |
 | RF05 | Os administradores da plataforma são responsáveis por aprovar os anúncios |   Alta     |             |              
 | RF06 |Os administradores têm a capacidade de gerenciar o uso dos usuários.       |   Média    |     RF05   
-| RF07 |    Os administradores têm a capacidade de gerenciar usuários              |   Média    |     RF05    |
-
+| RF07 |O usuário devem ter a capacidade de atualizar suas informações pessoais e de login. |   Média    |     RF01   |
+| RF08 | Os administradores devem poder adicionar, editar e remover coordenadores de projetos na plataforma. |   Média    |     RF06   |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
