@@ -10,7 +10,7 @@
 | RNF04 | O sistema deve ser acessível e funcionar corretamente em navegadores modernos (Chrome, Firefox, Edge) e em dispositivos móveis (smartphones e tablets). |   Portabilidade      |Alta      |    -             |
 | RNF05 | O sistema deve permitir que apenas administradores aprovem ou rejeitem anúncios, garantindo que apenas conteúdo aprovado seja exibido. |  Proteção  |Alta        |    RNF06              |
 | RNF06 |  Implementar um sistema seguro de login e senha para coordenadores, garantindo que apenas usuários autorizados possam postar anúncios. |  Proteção     |Alta      |     RNF05           |
-| RNF07 |Deve haver ajuda contextual e orientações para cada seção do sistema.|  Portabilidade       |Média      |     RNF04          |
+| RNF07 |Deve haver ajuda contextual e orientações para cada seção do sistema.|  Portabilidade       |Média      |     -          |
 | RNF08 |A exibição de anúncios deve ser atualizada em tempo real para refletir as aprovações recentes.| Desempenho      |Média      |     RNF01          |
 
 <div style="text-align: center">
