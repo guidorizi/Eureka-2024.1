@@ -31,7 +31,7 @@ Sugere-se desenvolver uma plataforma dedicada à divulgação de eventos e ativi
 
 Repositório do projeto : 
 - 
-Figma (prototipação): ( UPAR LINK AQUI)  
+Figma: [Prototipação](https://www.figma.com/proto/zGCnjaDGbOTXGFWLgOzjSo/Prototipação?node-id=20-75&t=kZCzAWrUmGKxjMPG-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 Diagrama de classes: (UPAR LINK AQUI)
 
