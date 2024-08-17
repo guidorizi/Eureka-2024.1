@@ -33,11 +33,10 @@ Repositório do projeto :
 - 
 Figma: [Prototipação](https://www.figma.com/proto/zGCnjaDGbOTXGFWLgOzjSo/Prototipação?node-id=1-2&t=kZCzAWrUmGKxjMPG-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
-Diagrama de classes: (UPAR LINK AQUI)
+Diagrama de Classes: [Diagrama de Classes](https://github.com/guidorizi/Eureka-2024.1/tree/main/Resquisitos%20de%20Sistema)
 
-Diagrama de atividades: (UPAR LINK AQUI)
+Diagrama de Atividades: [Diagrama de Atividades](https://github.com/guidorizi/Eureka-2024.1/tree/main/Resquisitos%20de%20Sistema)
 
-Requisitos funcionais:  [RF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RF.md)
+Requisitos Funcionais:  [RF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RF.md)
                  
-Requisitos não funcionais: [RNF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md)
-
+Requisitos Não Funcionais: [RNF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md)
