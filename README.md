@@ -37,6 +37,11 @@ Diagrama de Classes: [Diagrama de Classes](https://github.com/guidorizi/Eureka-2
 
 Diagrama de Atividades: [Diagrama de Atividades](https://github.com/guidorizi/Eureka-2024.1/tree/main/Resquisitos%20de%20Sistema)
 
+Diagrama de Casos de Uso:LINK
+
 Requisitos Funcionais:  [RF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RF.md)
                  
 Requisitos Não Funcionais: [RNF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md)
+
+Historias de Usuário:[Historia de usuário](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/HistoriasUsuario.md)
+
