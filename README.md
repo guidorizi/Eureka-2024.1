@@ -26,7 +26,7 @@ Link do GitHub: [Clique aqui]( https://github.com/guidorizi/Eureka-2024.1)
 
 DESCRIÇÃO DO PROJETO: 
 -
-Sugere-se desenvolver uma plataforma dedicada à divulgação de eventos e atividades promovidos pela UTF, abrangendo desde ensaios da bateria até palestras semanais, cada qual acompanhado de horários e breves descrições. Adicionalmente, é solicitada a implementação de um sistema de login e senha para os coordenadores dos projetos, a fim de que possam realizar postagens de anúncios. Importante ressaltar que os anúncios submetidos à plataforma devem passar por uma aprovação prévia por parte dos administradores responsáveis pela mesma.
+Sugere-se desenvolver uma plataforma dedicada à divulgação de eventos e atividades promovidos pela UTF, abrangendo desde eventos propagados pelos projetos de extensão da universidade (ensaios da bateria, festas comemorativas, treinos e apresentações abertas ao público) até palestras semanais, cada qual acompanhado de horários, breves descrições e quando necessário, requisitos para participação. Adicionalmente, é solicitada a implementação de um sistema de login e senha para os coordenadores dos projetos, a fim de que possam realizar postagens de anúncios. Importante ressaltar que os anúncios submetidos à plataforma devem passar por uma aprovação prévia por parte dos administradores responsáveis pela mesma.
 
 
 Repositório do projeto : 
@@ -37,11 +37,11 @@ Diagrama de Classes: [Diagrama de Classes](https://github.com/guidorizi/Eureka-2
 
 Diagrama de Atividades: [Diagrama de Atividades](https://github.com/guidorizi/Eureka-2024.1/tree/main/Resquisitos%20de%20Sistema)
 
-Diagrama de Casos de Uso:LINK
+Diagrama de Casos de Uso: LINK
 
 Requisitos Funcionais:  [RF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RF.md)
                  
 Requisitos Não Funcionais: [RNF](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/RNF.md)
 
-Historias de Usuário:[Historia de usuário](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/HistoriasUsuario.md)
+Historias de Usuário: [Historia de usuário](https://github.com/guidorizi/Eureka-2024.1/blob/main/Requisitos%20de%20usu%C3%A1rio/HistoriasUsuario.md)
 
